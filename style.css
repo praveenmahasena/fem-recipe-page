@@ -1,0 +1,21 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  line-height: 1.4rem;
+}
+
+html,
+body {
+  height: 100vh;
+}
+
+.box {
+  padding: 1rem;
+  border: red 1px solid;
+}
+
+
